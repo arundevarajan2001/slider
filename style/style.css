@@ -16,7 +16,6 @@
     margin-left:10px;
     flex-grow: 0;
     flex-shrink: 0;
-    flex-flow: row;
 }
 
 .slider{
@@ -30,3 +29,4 @@
 .slider::-webkit-scrollbar{
     display: none;
 }
+
